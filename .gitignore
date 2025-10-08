@@ -1,0 +1,5 @@
+*.fdt
+*.set
+/sub-*/
+.DS_Store
+.ipynb_checkpoints/
