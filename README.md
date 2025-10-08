@@ -6,7 +6,7 @@ This project demonstrates the fundamental difference in brainwave amplitude (vol
 ## Scientific Principle Demonstrated
 The analysis confirms that **Deep Sleep (N3)** is characterized by high-amplitude, low-frequency **Delta waves**, resulting in the largest overall average voltage of all stages. This demonstrates cortical synchronization during deep sleep.
 
-##️ Technology and Libraries
+# Technology and Libraries
 * **Language:** Python
 * **Core Library:** **MNE-Python** (used for data handling, epoching, and Evoked Potential calculation)
 * **Data Source:** **Sleep-EDF Expanded Dataset** (publicly available via PhysioNet). The data is organized according to the **Brain Imaging Data Structure (BIDS)** standard.
