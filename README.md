@@ -29,7 +29,7 @@ This analysis was performed using publicly available data from the **OpenNeuro**
 
 **The full data citation can be found in the original file:** `README_DATASET_SOURCE.md`
 
-We thank the original researchers for making this data available under the terms of the CC0 license.
+I thank the original researchers for making this data available under the terms of the CC0 license.
 
 ---
 
