@@ -27,7 +27,7 @@ The **N3 (Deep Sleep)** stage exhibited the highest average amplitude ($\mu V$) 
 
 This analysis was performed using publicly available data from the **OpenNeuro** database.
 
-**The full data citation can be found in the original file:** `README_DATASET_SOURCE.md`
+**The full data citation can be found in the original file:** `DATA_SOURCE_README.md`
 
 I thank the original researchers for making this data available under the terms of the CC0 license.
 
